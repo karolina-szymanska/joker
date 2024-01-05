@@ -1,0 +1,26 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "Application that tells jokes. Personal collection of useful functions.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolina-szymanska/joker.git"
+  },
+  "keywords": [
+    "css",
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Karolina Szymanska <karolinaszymanska899@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolina-szymanska/joker/issues"
+  },
+  "homepage": "https://github.com/karolina-szymanska/joker#readme"
+}
