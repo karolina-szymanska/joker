@@ -1,0 +1,32 @@
+{
+  "name": "joker",
+  "version": "0.1.0",
+  "description": "Application that tells jokes, e-commerce application, personal collection of useful functions",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolina-szymanska/joker.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "portfolio",
+    "website"
+  ],
+  "author": "Karolina Szymanska <karolinaszymanska899@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karolina-szymanska/joker/issues"
+  },
+  "homepage": "https://github.com/karolina-szymanska/joker#readme",
+  "devDependencies": {
+    "prettier": "*"
+  },
+  "dependencies": {
+    "give-me-a-joke": "0.4.0"
+  }
+}
