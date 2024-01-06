@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "name": "karolinaszymanska-joker",
   "version": "0.1.0",
   "description": "Application that tells jokes, e-commerce application, personal collection of useful functions",
   "type": "module",
@@ -27,6 +27,7 @@
     "prettier": "*"
   },
   "dependencies": {
-    "give-me-a-joke": "0.4.0"
+    "give-me-a-joke": "0.4.0",
+    "karolinaszymanska-joker": "*"
   }
 }
