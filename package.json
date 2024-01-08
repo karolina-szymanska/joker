@@ -1,6 +1,6 @@
 {
   "name": "karolinaszymanska-joker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Application that tells jokes, e-commerce application, personal collection of useful functions",
   "type": "module",
   "main": "src/index.js",
